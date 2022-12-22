@@ -24,7 +24,7 @@
     "fullstack-validator": "1.0.0",
     "i18n-js": "3.5.1",
     "ip": "1.1.5",
-    "jsonwebtoken": "8.5.1",
+    "jsonwebtoken": "9.0.0",
     "lodash": "4.17.15",
     "moment": "^2.24.0",
     "mongoose": "5.9.9",
